@@ -106,7 +106,7 @@
      <tr>
        <td>pos_keyboard</td>
        <td>快捷键</td>
-       <td>前台支付快捷键/td>
+       <td>前台支付快捷键</td>
      </tr>
      <tr>
        <td>pos_pin</td>
