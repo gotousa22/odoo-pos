@@ -61,7 +61,7 @@
      <tr>
        <td>Point of Sale Bonus, Gift, Loyalty addon</td>
        <td>积分</td>
-       <td>客户积分/td>
+       <td>客户积分</td>
      </tr>
      <tr>
        <td>Pos Customer Pricelist</td>
@@ -81,7 +81,7 @@
      <tr>
        <td>Internal Credit System</td>
        <td>储值</td>
-       <td>客户储值/td>
+       <td>客户储值</td>
      </tr>
      <tr>
        <td>POS Longpolling</td>
@@ -116,7 +116,7 @@
      <tr>
        <td>pos_product_available_negative</td>
        <td>负库存不能销售</td>
-       <td>先装pos_pin，设置POSPIN，POS用户不能销售负库存产品，需要POSPIN/td>
+       <td>先装pos_pin，设置POSPIN，POS用户不能销售负库存产品，需要POSPIN</td>
      </tr>
    </tbody>
  </table>
