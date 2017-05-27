@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+
+        <template id="template_inherit_ticket" name="template_inherit_ticket" inherit_id="point_of_sale.assets" >
+            <xpath expr="." position="inside">
+                <!-- Theme CSS -->
+                <link rel="stylesheet" href="/pos_ticket/static/src/css/ticket.css"/>
+            </xpath>
+        </template>
+    </data>
+</openerp>
