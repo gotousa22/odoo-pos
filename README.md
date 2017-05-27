@@ -8,7 +8,7 @@
         </div>
         <div class="oe_span4">
             <div class="oe_demo oe_picture oe_screenshot">
-                    <img src="/odoo-pos/addons-public/pos_ticket/static/description/ticket.png">
+                    <img src="/pos_ticket/static/description/ticket.png">
             </div>
         </div>
         <div class="oe_span6">
@@ -127,9 +127,7 @@
         <div class="oe_span8">
             <h2>联系我们</h2>
             <ul>
-                <li>联系人：南通-Paul</li>
-            </ul>
-            <ul>                
+                <li>联系人：南通-Paul</li>              
                 <li>eMail：253993451@qq.com</li>
             </ul>
         </div>
