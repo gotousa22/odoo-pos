@@ -129,8 +129,8 @@
             <ul>
                 <li>联系人：南通-Paul</li>
             </ul>
-            <ul>
-                <li>mail：253993451@qq.com</li>
+            <ul>                
+                <li>eMail：253993451@qq.com</li>
             </ul>
         </div>
     </div>
